@@ -5,52 +5,38 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
-			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
-			<false/>
-			<key>DisableAssociationMACRandomization</key>
-			<false/>
-			<key>EncryptionType</key>
-			<string>WPA</string>
-			<key>HIDDEN_NETWORK</key>
-			<false/>
-			<key>IsHotspot</key>
-			<false/>
-			<key>Password</key>
-			<string>Hs120807</string>
 			<key>PayloadDescription</key>
-			<string>配置 Wi-Fi 设置</string>
+			<string>全局 HTTP 代理</string>
 			<key>PayloadDisplayName</key>
-			<string>Wi-Fi</string>
+			<string>全局 HTTP 代理</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.18894B3F-0748-4A9C-92D1-E62D2F4B90D4</string>
+			<string>com.apple.proxy.http.global.69003EAB-4299-4405-B38A-E44A2E3F2630</string>
 			<key>PayloadType</key>
-			<string>com.apple.wifi.managed</string>
+			<string>com.apple.proxy.http.global</string>
 			<key>PayloadUUID</key>
-			<string>18894B3F-0748-4A9C-92D1-E62D2F4B90D4</string>
+			<string>69003EAB-4299-4405-B38A-E44A2E3F2630</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<false/>
 			<key>ProxyServer</key>
 			<string>192.168.31.62</string>
 			<key>ProxyServerPort</key>
 			<integer>1082</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
-			<key>SSID_STR</key>
-			<string>Survival English_5G</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
 	<string>proxy</string>
 	<key>PayloadIdentifier</key>
-	<string>SurvivaldeMacBook-Air.0C4DFF07-0386-4C99-9991-DE6EC96F8F30</string>
+	<string>SurvivaldeMacBook-Air.9F7B52C8-6824-4AFE-9BE5-1836A844362A</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>49A3F589-8F93-49AA-870A-AA1CB75C873E</string>
+	<string>138EED83-B0EF-449C-A6F1-1070B8D3F981</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
